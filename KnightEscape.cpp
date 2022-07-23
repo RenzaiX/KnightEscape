@@ -7,10 +7,6 @@
 	chess game. This means that a knight can only move in a valid L-shape
 	(two squares in a horizontal direction, then one in a vertical direction OR 
 	two squares in a vertical direction, then one in a horizontal direction).
-		       
-   Course CS 141, Spring 2022
-   System 
-   Author 
     
  ---------------------------------------------
 
